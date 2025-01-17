@@ -11,15 +11,15 @@ The Technology News Insights Engine analyzes various technology news articles to
 - An object groups the functionality of data cleaning and News Categorization.
 - The Engine uitilizes berTopic and Groq API to categorize Tech News articles and filter out non-Tech News articles
 
-## (Data Cleaning Results)[https://github.com/JunJul/Technology-News-Insight-Engine/blob/Master/Number_of_Tokens.ipynb]
+## [Data Cleaning Results](https://github.com/JunJul/Technology-News-Insight-Engine/blob/Master/Number_of_Tokens.ipynb)
 - Shows distribution in number of words before cleaning and after cleaning.
 
-## (Recommendation System)[https://github.com/JunJul/Technology-News-Insight-Engine/blob/Master/Recommendation_System.ipynb]
+## [Recommendation System](https://github.com/JunJul/Technology-News-Insight-Engine/blob/Master/Recommendation_System.ipynb)
 - Retrieveal Arguemented Generation based on Llama-2-7b-chat-hf
 - Retrieve and Re-rank from sentence transformer
 - sentiment analysis
 
-## (Engine tools)[https://github.com/JunJul/Technology-News-Insight-Engine/blob/Master/Technology_News_Insight_Engine_Tools.ipynb]
+## [Engine tools](https://github.com/JunJul/Technology-News-Insight-Engine/blob/Master/Technology_News_Insight_Engine_Tools.ipynb)
 - contains all objects used by Technology News Insight Engine such as data cleaning, summarization and Groq.
 - Data Cleaning: remove stopwords, lemmatize words, and tokenize sentences.
 - Summarization: summarize a long News article by frequency of word based and textRank summarization.
