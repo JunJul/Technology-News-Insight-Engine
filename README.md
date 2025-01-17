@@ -5,8 +5,7 @@ The Technology News Insights Engine analyzes various technology news articles to
 
 ## [Engine Sturcture and results](https://github.com/JunJul/Technology-News-Insight-Engine/blob/Master/BTT_AccentureTeam1B.pptx.pdf)
 
-## Codes
-[Technology News Insight Engine](https://github.com/JunJul/Technology-News-Insight-Engine/blob/Master/Tech_News_Insight_Engine.ipynb)
+## [Technology News Insight Engine](https://github.com/JunJul/Technology-News-Insight-Engine/blob/Master/Tech_News_Insight_Engine.ipynb)
 
 An object groups the functionality of data cleaning and News Categorization.
 - The Engine uitilizes berTopic and Groq API to categorize Tech News articles and filter out non-Tech News articles
